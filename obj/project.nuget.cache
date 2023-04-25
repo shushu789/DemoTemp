@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBQYH2MTvS5sJoQsl9NzpzEhpI3x/3glW1qQQPNT7mQ0+vf6MMLDdvFXGRkyd+8odCzlCu1Q2m8s+qUoAJDaqg==",
+  "success": true,
+  "projectFilePath": "E:\\dotnetwork\\source\\repos\\FKPlayer\\FlyeafPlayerDemo\\FlyeafPlayerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\dragablz\\0.0.3.234\\dragablz.0.0.3.234.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\ffmpeg.autogen\\5.1.2.1\\ffmpeg.autogen.5.1.2.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\flyleaflib\\3.7.7\\flyleaflib.3.7.7.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\flyleaflib.controls.wpf\\1.2.17\\flyleaflib.controls.wpf.1.2.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\polysharp\\1.10.0\\polysharp.1.10.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sharpgen.runtime\\2.0.0-beta.13\\sharpgen.runtime.2.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\sharpgen.runtime.com\\2.0.0-beta.13\\sharpgen.runtime.com.2.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.d3dcompiler\\2.4.2\\vortice.d3dcompiler.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.direct2d1\\2.4.2\\vortice.direct2d1.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.direct3d11\\2.4.2\\vortice.direct3d11.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.directcomposition\\2.4.2\\vortice.directcomposition.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.directx\\2.4.2\\vortice.directx.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.dxgi\\2.4.2\\vortice.dxgi.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.mathematics\\1.4.26\\vortice.mathematics.1.4.26.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.mediafoundation\\2.4.2\\vortice.mediafoundation.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\vortice.xaudio2\\2.4.2\\vortice.xaudio2.2.4.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\wpfcolorfontdialog\\1.0.8\\wpfcolorfontdialog.1.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
